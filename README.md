@@ -2,8 +2,6 @@
 [![Builds Artifact and Release](https://github.com/Baio1977/DELL_VOSTRO_5501-ICE-LAKE/actions/workflows/main.yml/badge.svg)](https://github.com/Baio1977/DELL_VOSTRO_5501-ICE-LAKE/actions/workflows/main.yml)
 
 [![](https://img.shields.io/badge/Gitter%20Ice%20Lake-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/ICE-LAKE-HACKINTOSH-DEVELOPMENT/community)
-[![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Lorys89/DELL_VOSTRO_5401-ICE-LAKE/releases)
-
 
 EFI for Dell Vostro 5401 with OpenCore bootloader
 
