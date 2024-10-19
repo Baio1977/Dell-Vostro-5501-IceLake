@@ -86,7 +86,7 @@ See [ioreg](./ioreg%20MacBook%20Pro%2016%2C2.ioreg) for more clarification
 - [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) - USB creation
 
 
-## Bios settings for Bios Version 1.4.4
+## Bios settings for Bios Version 1.25.0
 ### Enable :
 * SATA Operation : AHCI
 * Fastboot : Thorough
