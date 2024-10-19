@@ -3,8 +3,6 @@
 
 [![](https://img.shields.io/badge/Gitter%20Ice%20Lake-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/ICE-LAKE-HACKINTOSH-DEVELOPMENT/community)
 
-EFI for Dell Vostro 5401 with OpenCore bootloader
-
 (Compatible for Dell Inspiron 5401/5408/5501/5508 e Vostro 5401/5501, (i3 G1 - i5 G1 - i7 G7) these laptops use the same bios file)
 
 ![descrizione](./Screenshot/pc.jpg)
@@ -76,7 +74,7 @@ EFI for Dell Vostro 5401 with OpenCore bootloader
 ### Special Config:
 
 - Usb port mapping performed
-- SSDT-Hack Essential patch
+- SSDT-Hack
 
 See [ioreg](./ioreg%20MacBook%20Pro%2016%2C2.ioreg) for more clarification
 
