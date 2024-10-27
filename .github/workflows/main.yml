@@ -2,10 +2,12 @@ name: Builds Artifact and Release
 
 on:
   push:
-  pull_request:
+    branches:
+    - main
+    - release/*
+    
   workflow_dispatch:
-  release:
-    types: [published]
+
 
 env:
   PROJECT_TYPE: EFI
