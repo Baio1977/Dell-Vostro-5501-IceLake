@@ -49,7 +49,7 @@ jobs:
       with:
          repo_token: ${{ secrets.GITHUB_TOKEN }}
          file: ./*.zip
-         tag: ${{ V* }}
+         tag: ${{ V }}
          release_name: EFI DellVostro5501 Hackintosh
          body: ${{ github.event_name != 'release' && github.event.head_commit.message || '' }}
          file_glob: true
