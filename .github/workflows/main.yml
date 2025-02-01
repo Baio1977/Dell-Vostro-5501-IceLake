@@ -39,7 +39,7 @@ jobs:
         zip -r DellVostro5501.zip .
         
     - name: Upload artifact
-      uses: actions/upload-artifact@v4.4.3
+      uses: actions/upload-artifact@v4.6.0
       with:
         name: DellVostro5501
         path: DellVostro5501.zip
