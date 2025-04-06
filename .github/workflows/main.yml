@@ -29,7 +29,7 @@ jobs:
         rm -Rf Screenshot
         rm -Rf "TOOLS EFI MOD"
         rm -Rf .gitignore
-        rm -Rf "ioreg MacBook Pro 16,2.ioreg"
+        rm -Rf "Vostro 5501 ICL MacBookAir 9.1.ioreg"
         rm -Rf README.md
         rm -Rf opencore-2023-11-07-192719.txt
         rm -Rf "DRIVER WIN X64 DW1830.zip"
@@ -39,7 +39,7 @@ jobs:
         zip -r DellVostro5501.zip .
         
     - name: Upload artifact
-      uses: actions/upload-artifact@v4.6.0
+      uses: actions/upload-artifact@v4.6.2
       with:
         name: DellVostro5501
         path: DellVostro5501.zip
