@@ -76,9 +76,9 @@
 - Usb port mapping performed
 - SSDT-Hack
  
-![SSDT Full Hack](./Screenshot/ssdt-full-hack.png)
+![ssdt](./Screenshot/ssdt.png)
 
-![SSDT Full Hack](./Screenshot/ssdt-full-hack-1.png)
+![ssdt1](./Screenshot/ssdt1.png)
 
 See [ioreg](./ioreg%20MacBook%20Pro%2016%2C2.ioreg) for more clarification
 
