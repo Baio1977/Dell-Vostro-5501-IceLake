@@ -1,7 +1,8 @@
 # Dell Vostro 5501 (Ice Lake) Hackintosh
 [![Builds Artifact and Release](https://github.com/Baio1977/DELL_VOSTRO_5501-ICE-LAKE/actions/workflows/main.yml/badge.svg)](https://github.com/Baio1977/DELL_VOSTRO_5501-ICE-LAKE/actions/workflows/main.yml)
 
-[![](https://img.shields.io/badge/Gitter%20Ice%20Lake-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/ICE-LAKE-HACKINTOSH-DEVELOPMENT/community)
+[![](https://img.shields.io/badge/Reposity-Baio77-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Baio1977?tab=repositories)
+[![](https://img.shields.io/badge/Telegram-HackintoshLifeIT-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/HackintoshLife_it)
 
 (Compatible for Dell Inspiron 5401/5408/5501/5508 e Vostro 5401/5501, (i3 G1 - i5 G1 - i7 G7) these laptops use the same bios file)
 
