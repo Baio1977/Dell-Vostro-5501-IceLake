@@ -20,7 +20,7 @@
 | Wifi + Bluetooth | Intel AX210 WIFI 6E                |
 | NVMe             | HYNIX BC511 512 GB (WINDOWS)       |
 | NVME             | SAMSUNG 970 EVO PLUS 500 GB (MACOS)|
-| SmBios           | MacBookAir 9,1                     |
+| SmBios           | MacBookPro 16,2                    |
 | BootLoader       | OpenCore                           |
 
 
